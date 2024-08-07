@@ -12,7 +12,7 @@ service:
 namespace:
   name: 5-demo
 labels:
-    name: bb-app
-    version: 7.5.0
-    env: uat
+  name: bb-app
+  version: 7.5.0
+  env: uat
 
