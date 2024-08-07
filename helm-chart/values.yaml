@@ -8,7 +8,6 @@ image:
 
 service:
   type: NodePort
-  nodePort: 30005
 namespace:
   name: 5-demo
 labels:
